@@ -13,7 +13,6 @@ API_BASE_URL=https://api.openweathermap.org
 API_KEY=
 ```
 
-
 ```bash
 npm install
 
@@ -38,3 +37,7 @@ npm start
 ## Contribution
 
 fork and open pull requests
+
+## Questions
+
+If you have any questions about this repo, open an issue or contact me directly at [steveha999@gmail.com](steveha999@gmail.com). You can find more of my work at [Pizza199](https://github.com/Pizza199/WeatherDashboard.git)
